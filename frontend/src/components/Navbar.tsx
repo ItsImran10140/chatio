@@ -18,7 +18,7 @@ const Navbar = () => {
               className="flex items-center gap-2.5 hover:opacity-80 transition-all"
             >
               <div className="size-6 rounded-lg bg-primary/10 flex items-center justify-center">
-                <img src="/logo.svg" alt="logo" />
+                {/* <img src="/logo.svg" alt="logo" /> */}
               </div>
               <h1 className="text-lg font-bold">Chatio</h1>
             </Link>

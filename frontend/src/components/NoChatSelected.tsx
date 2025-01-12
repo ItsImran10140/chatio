@@ -9,7 +9,7 @@ const NoChatSelected = () => {
               className="w-16 h-16 rounded-2xl bg-primary/10 flex items-center
              justify-center animate-bounce"
             >
-              <img src="/logo.svg" alt="logo" />
+              {/* <img src="/logo.svg" alt="logo" /> */}
             </div>
           </div>
         </div>

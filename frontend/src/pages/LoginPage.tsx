@@ -31,7 +31,7 @@ const LoginPage = () => {
               transition-colors"
               >
                 {/* <MessageSquare className="w-6 h-6 text-primary" /> */}
-                <img src="/logo.svg" alt="logo" />
+                {/* <img src="/logo.svg" alt="logo" /> */}
               </div>
               <h1 className="text-2xl font-bold mt-2">Welcome Back</h1>
               <p className="text-base-content/60">Sign in to your account</p>
